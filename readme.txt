@@ -13,3 +13,8 @@ b. client (melihat per titik hotspot)
 
 4. Halaman promosi Perangkat Hotspot [perangkat]
 Berisi uraian tipe-tipe perangkat Hotspot
+
+
+Supported Devices
+
+1. Mikrotik
